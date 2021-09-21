@@ -1,4 +1,4 @@
-# SimpleAnimaotrPreviweTool
+# SimpleAnimatorPreviweTool
 
 An Animator preview tool for Unity
 
